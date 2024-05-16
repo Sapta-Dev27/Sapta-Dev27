@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saptarshi2027paul@gmail.com**
 
-- ⚡ Fun fact **Life is a FUN for me**
+- ⚡ Fun fact : **Life is a FUN for me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
