@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=Sapta-Dev27&icon=1&color=5)](https://visitcount.itsvg.in)
+![Coding GIF](https://github.com/Sapta-Dev27/Sapta-Dev27/blob/main/3d-rendering-kid-playing-digital-game.jpg)
+
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack 😎<br>👯 I’m looking to collaborate on Front-End Projects 🤝<br>🤝 I’m looking for help with Blockchain and ML 😫 <br>🌱 I’m currently learning React-Native and MERN 🤖<br>💬 Ask me about React JS , JavaScript ,  HTML CSS JS 👾<br>
 
@@ -22,9 +25,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sapta-Dev27&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
+![Coding GIF](https://github.com/anuska2027biswas/anuska2027biswas/blob/main/giphy.webp) 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sapta-Dev27&icon=1&color=5)](https://visitcount.itsvg.in)
-
-#![Coding GIF](https://github.com/anuska2027biswas/anuska2027biswas/blob/main/giphy.webp) 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
