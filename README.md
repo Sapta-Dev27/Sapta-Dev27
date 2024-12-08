@@ -28,6 +28,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+#GSSOC'24 Stats
+![](https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<Sapta-Dev27>)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sapta-Dev27&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sapta-Dev27&theme=radical&hide_border=false)<br/>
