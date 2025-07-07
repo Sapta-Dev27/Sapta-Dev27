@@ -32,11 +32,12 @@ src="https://img.shields.io/twitter/follow/SaptaDev27?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Sapta-Dev27"><img src="https://github-readme-stats.vercel.app/api?username=Sapta-Dev27&show_icons=true&hide=&count_private=false&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sapta-Dev27's GitHub stats" /></a>
-
 <a href="http://www.github.com/Sapta-Dev27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sapta-Dev27&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Sapta-Dev27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapta-Dev27&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapta-Dev27&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+### 📊 My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapta-Dev27&layout=compact&langs_count=6&theme=transparent)
 
 
 ### 🏆 GitHub Trophies
