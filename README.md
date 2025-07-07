@@ -38,4 +38,7 @@ src="https://img.shields.io/twitter/follow/SaptaDev27?logo=twitter&style=for-the
 
 <a href="https://github.com/Sapta-Dev27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapta-Dev27&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sapta-Dev27&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
