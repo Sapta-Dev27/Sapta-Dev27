@@ -4,17 +4,17 @@
 
 </div>
 
-<h3 align="center">I build full-stack web apps and AI-integrated products, mostly with the MERN stack.</h3>
+<h3 align="center">I build full-stack web apps with AI-integrated products, mostly with the MERN stack.</h3>
 
 <p align="center">
   <a href="https://saptadev27-dusky.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/Sapta-Dev27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saptarshi-paul-761124276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saptarshi2027paul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Sapta-Dev27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-📍 Kolkata, West Bengal, India &nbsp;|&nbsp; 🎓 BTech CSE @ Techno Main Salt Lake ('27) &nbsp;|&nbsp; ⚡Ex SDE Intern @TBAI
+📍 Kolkata, West Bengal, India &nbsp;|&nbsp; 🎓 BTech CSE @ Techno Main Salt Lake ('27) &nbsp;|&nbsp; ⚡ Ex SDE Intern @TBAI
 </p>
 
 <br/>
@@ -22,9 +22,8 @@
 ## 👨‍💻 About Me
 
 - 🚀 SDE Intern @ **Techno Billion AI** — building full-stack client applications with React.js, Node.js & REST APIs
-- 🧠 Building **AI-integrated products** — resume analyzers, interview generators, and content platforms powered by the Gemini API
-- 🏆 **650+ problems solved** on LeetCode (1561 rating across 25+ contests)
-- 🌐 Tech Lead, Web Dev @ **GDG on Campus, TMSL** — led the team through a full academic session
+- 🧠 Building **AI-integrated products** — with MERN Stack.
+- 🏆 **650+ problems solved** on LeetCode (1561 rating across 25 contests)
 - 🥇 State-level hackathon winner (**CraftNCode, IIIT Bhubaneswar**) & 2× Top 10 finalist (Double Slash 3.0 / 4.0)
 - 🌱 Currently sharpening System Design & DSA fundamentals
 
@@ -85,6 +84,122 @@
 
 <br/>
 
+## 💻 About Me — As Code
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
+using namespace std;
+
+class SaptarshiPaul {
+private:
+    string name = "Saptarshi Paul";
+    string role = "Full-Stack Developer | AI Product Builder";
+    string location = "Kolkata, West Bengal, India";
+
+    struct Education {
+        string degree = "B.Tech, Computer Science & Engineering";
+        string college = "Techno Main Salt Lake";
+        string duration = "Aug 2023 - June 2027";
+        string cgpa = "8.01 / 10.00";
+    } education;
+
+    struct Internship {
+        string title = "SDE Intern";
+        string company = "Techno Billion AI";
+        string duration = "Aug 2025 - Oct 2025 (Hybrid)";
+    } internship;
+
+    vector<string> languages = {"JavaScript", "C++"};
+    vector<string> webTech = {"ReactJS", "NodeJS", "Express", "TailwindCSS"};
+    vector<string> databases = {"MongoDB", "SQL"};
+    vector<string> fundamentals = {
+        "System Design", "OOP", "Computer Networks",
+        "Operating Systems", "DSA"
+    };
+    vector<string> tools = {"Git", "Docker", "Postman", "VS Code", "Copilot"};
+
+    map<string, string> projects = {
+        {"HireBuddy",  "AI-powered career copilot: resume analyzer, interview generator, job scraper & GitHub scorer"},
+        {"PayFlow",    "Secure digital wallet & UPI payment system with JWT auth and MPIN security"},
+        {"InspiroAI",  "AI-based content generation platform with scalable REST APIs"}
+    };
+
+    vector<string> achievements = {
+        "600+ problems solved on LeetCode (1561 rating, 25 contests)",
+        "Tech Lead, Web Dev @ GDG on Campus TMSL",
+        "2x Top 10 Open Source Contributor - Apetre & Apetre 2.0",
+        "State-Level Hackathon Winner - CraftNCode, IIIT Bhubaneswar",
+        "2x Top 10 Finalist - Double Slash 3.0 & 4.0"
+    };
+
+public:
+    void introduce() {
+        cout << "Hi, I'm " << name << " - " << role << "." << endl;
+        cout << "Based in " << location << "." << endl;
+    }
+
+    void showEducation() {
+        cout << "\nEducation:" << endl;
+        cout << "  🎓 " << education.degree << endl;
+        cout << "     " << education.college << " (" << education.duration << ")" << endl;
+        cout << "     CGPA: " << education.cgpa << endl;
+    }
+
+    void showExperience() {
+        cout << "\nExperience:" << endl;
+        cout << "  💼 " << internship.title << " @ " << internship.company << endl;
+        cout << "     " << internship.duration << endl;
+    }
+
+    void displayTechStack() {
+        cout << "\nTech Stack:" << endl;
+        cout << "  ⚡ Languages: ";
+        for (const auto& lang : languages) cout << lang << " ";
+        cout << "\n  ⚡ Web: ";
+        for (const auto& tech : webTech) cout << tech << " ";
+        cout << "\n  ⚡ Databases: ";
+        for (const auto& db : databases) cout << db << " ";
+        cout << endl;
+    }
+
+    void showProjects() {
+        cout << "\nProjects:" << endl;
+        for (const auto& [name, desc] : projects) {
+            cout << "  🚀 " << name << " - " << desc << endl;
+        }
+    }
+
+    void showAchievements() {
+        cout << "\nAchievements:" << endl;
+        for (const auto& a : achievements) {
+            cout << "  🏆 " << a << endl;
+        }
+    }
+
+    void funFact() {
+        cout << "\nFun Fact: I've debugged more of my own code" << endl;
+        cout << "than I've written from scratch! 🐛" << endl;
+    }
+};
+
+int main() {
+    SaptarshiPaul me;
+    me.introduce();
+    me.showEducation();
+    me.showExperience();
+    me.displayTechStack();
+    me.showProjects();
+    me.showAchievements();
+    me.funFact();
+    return 0;
+}
+```
+
+<br/>
+
 ## 🚀 Selected Projects
 
 <table>
@@ -142,13 +257,20 @@ Explore the full list of pinned repositories, open-source contributions, and exp
 
 <br/>
 
+📊 Top Languages & Commit Activity
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sapta-Dev27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Sapta-Dev27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,prs"/> </p> <br/>
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://saptadev27-dusky.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/Sapta-Dev27">LinkedIn</a> ·
-  <a href="mailto:saptarshi2027paul@gmail.com">Email</a> ·
-  <a href="tel:+917980599896">+91-7980599896</a>
+  <a href="https://saptadev27-dusky.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saptarshi-paul-761124276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sapta-Dev27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/SaptaDev27"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <br/>
+  <a href="https://x.com/_sapta_dev27"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:saptarshi2027paul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+917980599896"><img src="https://img.shields.io/badge/Call-+91%207980599896-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
